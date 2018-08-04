@@ -3,13 +3,13 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Filename: ./debs/com.ic0nic0de.icons_1.0_iphoneos-arm.deb
-Size: 11984
-MD5sum: d8ca8bba185975da668ba0a60213504b
-SHA1: 80a0ea6c17f80d20f2d2de33752b8cd90e4fb543
-SHA256: f552b496a7b6c7bb6580832c04e9abc53a099fceddac792a344ed5dd1b0086f8
+Size: 11994
+MD5sum: 2a7a294c1521f9770a4102631515af95
+SHA1: 253800c08070b42bbca6a272500c614a049b53e0
+SHA256: 8bb15f56607913c6921391f62d4f9edd2ab458da808d236b70930ed2b5f46058
 Section: aTweaks
 Description: Adds Icon Images
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depictions: https://Ic0nic0de.github.io/depictions/com.Ic0nic0de.icons
+Depictions: https://Ic0nic0de.github.io/depictions/com.Ic0nic0de.icons/index.html
 Name: IconPack
 
