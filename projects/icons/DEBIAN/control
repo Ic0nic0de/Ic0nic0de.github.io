@@ -6,6 +6,6 @@ Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depictions: https://Ic0nic0de.github.io/depictions/com.Ic0nic0de.icons
 Description: Adds Icon Images
 Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Essential: yes
-Priority: required
+Essential:
+Priority:
 Version: 1.0
