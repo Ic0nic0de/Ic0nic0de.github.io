@@ -1,9 +1,9 @@
 Architecture: iphoneos-arm
-Author:  Ic0nic0de Public Repo 
+Author:  Ic0nic0de Public Repo  <Ic0nic0de@gmail.com>
 Description: Adds Icon Images
+Depictions:
 Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Name: IconPack
 Package: com.Ic0nic0de.icons
 Section: Tweaks
 Version: 1.0
-Depictions:
