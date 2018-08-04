@@ -1,9 +1,11 @@
-Architecture: iphoneos-arm
-Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Description: Adds Icon Images
-Depictions: https://Ic0nic0de.github.io/depictions/?p=com.Ic0nic0de.icons
-Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Name: IconPack
 Package: com.Ic0nic0de.icons
+Name: IconPack
+Architecture: iphoneos-arm
 Section: aTweaks
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depictions: https://Ic0nic0de.github.io/depictions/?p=com.Ic0nic0de.icons
+Description: Adds Icon Images
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Essential: yes
+Priority: required
 Version: 1.0
