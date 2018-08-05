@@ -5,9 +5,9 @@ Essential: yes
 Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Filename: ./debs/com.ic0nic0de.icons_1.0-2_iphoneos-arm.deb
 Size: 12020
-MD5sum: 836b57c6fa8667fbfa477587b541f293
-SHA1: 82efd82592420140e8a7e54cd01d4f4f2bff47d0
-SHA256: db0045a6496841cbe87fdcfbec6037ed29984eb967bd985a5bb6e74e19af8378
+MD5sum: 72f61df211658a3b2f7b853a89db3ce4
+SHA1: dd5d0848f7987a9a7088f9c35d8c5df17a16090f
+SHA256: 85a8615433aa000d939aef44d931191715c00850ca6c3d25aac0a222579279d5
 Section: aTweaks
 Priority: optional
 Description: Adds Sections icons for repository.
