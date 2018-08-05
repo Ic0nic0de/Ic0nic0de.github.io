@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Filename: ./debs/com.ic0nic0de.icons_1.0_iphoneos-arm.deb
 Size: 11986
-MD5sum: 904f6ff32093a92bc02773df31ea84f2
-SHA1: 4df6cd929fcc24cbc4444150ef1f6789f0e81b08
-SHA256: ef0eaf5a4f1482810b1351587edbfbcb56fe9876fa1e711d814967b25a6aad6d
+MD5sum: 67ae26e3a3f9416cf86066f0a4d3c8cc
+SHA1: 3c925a7c9942c06a581e765bb849da9c7f15c983
+SHA256: cbaa813ef70456bfdaf4e7ef7820017be23b40cbb9a93ea83b76dc9b584c0af1
 Section: Tweaks
 Description: Adds Icon Images
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
