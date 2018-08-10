@@ -5,9 +5,9 @@ Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate, com.wizages.bae
 Filename: ./debs/com.ic0nic0de.ic0spring_1.0-5_iphoneos-arm.deb
 Size: 102474
-MD5sum: ab7070660788a7db7e45017946529f8b
-SHA1: 8f98173a604b5dc84fc8ca0aa04a648d783fba61
-SHA256: ad4b5f70a7eacfa6d54ab3334575c70fdb207633e61bf41fdc1eeb96b6c82df1
+MD5sum: c33a92e3c58239165a7a69669047e5bc
+SHA1: b6df68492e00c3ea24a227a440a409d7462c6b40
+SHA256: 4efd63eabf723c92dfed5df51f0da3684a302d61e31682388387a1ca4a4627d6
 Section: aTweaks
 Description: Ic0nic0de custom respring logo.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
@@ -20,9 +20,9 @@ Architecture: iphoneos-arm
 Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Filename: ./debs/com.ic0nic0de.icons_1.0-6_iphoneos-arm.deb
 Size: 33538
-MD5sum: b62823e6ebc7a7b4522e8fd191ee2aab
-SHA1: f37ff6220a4151f315e78d233da44509ac177fb9
-SHA256: 5358a7706682a562a9866fed779d017e85e896e8ce9031092f37acb6b22bcac2
+MD5sum: 7d1225adcb351e1966ee866d962f00ae
+SHA1: 145f5fd2163930e0f1773e9b029d08d26db59398
+SHA256: 0f30c90995a6fe8ccd5f4d450eace4a9704351ffa39895897ebc3f6b97089bfc
 Section: aTweaks
 Description: Adds Sections icons for repository.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
