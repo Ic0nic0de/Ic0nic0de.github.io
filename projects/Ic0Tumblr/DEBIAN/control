@@ -1,0 +1,12 @@
+Package: com.Ic0nic0de.Ic0Tumblr
+Name: Ic0Tumblr
+Architecture: iphoneos-arm
+Section: aTweaks
+Depends: firmware (>= 11.0), mobilesubstrate
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.Ic0Tumblr/index.html
+Description: Save Tumblr videos to camera roll
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Essential:
+Priority:
+Version: 1.0
