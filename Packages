@@ -4,12 +4,12 @@ Architecture: iphoneos-arm
 Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate, com.wizages.bae
 Filename: ./debs/com.ic0nic0de.ic0spring_1.0-5_iphoneos-arm.deb
-Size: 102482
-MD5sum: c228e7a3d6497cc9c6bb85105bb21eec
-SHA1: 63c5f00caae8983adc209928632fd528b59e1bed
-SHA256: c038f9ec9327eed7e030a55de4febb3f7391742f3bca6eb24e09a43c64c39ddc
+Size: 102474
+MD5sum: ca9dd9e57a54499fa0fdf442cbbc9b17
+SHA1: a2a06db41bcb2cd99a7b5a58cba3c28b9d40256e
+SHA256: 12debcafc6558532d472553024aedbcb7504c8fae6ea7a4a9e8452c35797bc98
 Section: aTweaks
-Description: Ic0nic0de customer respring logo.
+Description: Ic0nic0de custom respring logo.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.Ic0Spring/index.html
 Name: Ic0Spring
@@ -21,9 +21,9 @@ Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/com.ic0nic0de.ic0tumblr_1.0_iphoneos-arm.deb
 Size: 133386
-MD5sum: 7baaa30e8f02d6a11b23ec71001fff53
-SHA1: 696db30866ccd9260ab03d42d986fc8cfcfc0428
-SHA256: a41da07f684565bd8cb71c9f31064fc2108bb50a8bef5f8f9353fb098aa8e6aa
+MD5sum: e614fcd65ff55a5af405c53c949504c8
+SHA1: 9bb5a817435e6c8d413f106035e41672ee9b36e7
+SHA256: cf5aaa6562db8fbd016047e1d385cd717355b9f655d1262ff646f55cde682551
 Section: aTweaks
 Description: Save Tumblr videos to camera roll
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
@@ -36,9 +36,9 @@ Architecture: iphoneos-arm
 Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Filename: ./debs/com.ic0nic0de.icons_1.0-6_iphoneos-arm.deb
 Size: 33538
-MD5sum: 714412fb95afd978745fc30c6276f58e
-SHA1: 28d0536b26dce016d4dc04a13cfc7abae556703c
-SHA256: 581164454fe26c6e603d21052c930c197b256f4e9939ed510c6707afa125e7f7
+MD5sum: e497f75306c9b01548ff41291a33110e
+SHA1: 7ac4889cff2c11b32908c963a103284b693cc0a7
+SHA256: eaf182f3c76b58d9f0b017d603c1b8a64af4181e7353f4ff5d290b40af80c2cf
 Section: aTweaks
 Description: Adds Sections icons for repository.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
