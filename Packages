@@ -5,30 +5,14 @@ Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate, com.wizages.bae
 Filename: ./debs/com.ic0nic0de.ic0spring_1.0-5_iphoneos-arm.deb
 Size: 102474
-MD5sum: ca9dd9e57a54499fa0fdf442cbbc9b17
-SHA1: a2a06db41bcb2cd99a7b5a58cba3c28b9d40256e
-SHA256: 12debcafc6558532d472553024aedbcb7504c8fae6ea7a4a9e8452c35797bc98
+MD5sum: ab7070660788a7db7e45017946529f8b
+SHA1: 8f98173a604b5dc84fc8ca0aa04a648d783fba61
+SHA256: ad4b5f70a7eacfa6d54ab3334575c70fdb207633e61bf41fdc1eeb96b6c82df1
 Section: aTweaks
 Description: Ic0nic0de custom respring logo.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.Ic0Spring/index.html
 Name: Ic0Spring
-
-Package: com.Ic0nic0de.Ic0Tumblr
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/com.ic0nic0de.ic0tumblr_1.0_iphoneos-arm.deb
-Size: 133386
-MD5sum: e614fcd65ff55a5af405c53c949504c8
-SHA1: 9bb5a817435e6c8d413f106035e41672ee9b36e7
-SHA256: cf5aaa6562db8fbd016047e1d385cd717355b9f655d1262ff646f55cde682551
-Section: aTweaks
-Description: Save Tumblr videos to camera roll
-Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.Ic0Tumblr/index.html
-Name: Ic0Tumblr
 
 Package: com.Ic0nic0de.icons
 Version: 1.0-6
@@ -36,9 +20,9 @@ Architecture: iphoneos-arm
 Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Filename: ./debs/com.ic0nic0de.icons_1.0-6_iphoneos-arm.deb
 Size: 33538
-MD5sum: e497f75306c9b01548ff41291a33110e
-SHA1: 7ac4889cff2c11b32908c963a103284b693cc0a7
-SHA256: eaf182f3c76b58d9f0b017d603c1b8a64af4181e7353f4ff5d290b40af80c2cf
+MD5sum: b62823e6ebc7a7b4522e8fd191ee2aab
+SHA1: f37ff6220a4151f315e78d233da44509ac177fb9
+SHA256: 5358a7706682a562a9866fed779d017e85e896e8ce9031092f37acb6b22bcac2
 Section: aTweaks
 Description: Adds Sections icons for repository.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
