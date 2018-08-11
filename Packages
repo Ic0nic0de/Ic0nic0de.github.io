@@ -5,9 +5,9 @@ Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate, com.wizages.bae
 Filename: ./debs/com.ic0nic0de.ic0spring_1.0-6_iphoneos-arm.deb
 Size: 102476
-MD5sum: cd9b7ad6d9a5abf12308f1a3243641b5
-SHA1: 0c6db2125ceeaf60bf9755efb4bab4feb7562ace
-SHA256: 65b684c12c94ff43c7f2519e5a6fa043f2c60b6a0d4679c524ed58ce307cc151
+MD5sum: a9163cac9426bdbd0329170fe4aadd7d
+SHA1: c85e82f6a533cedbd095e83ec7536c588234df9d
+SHA256: 2a9f00bb47c53eb03edc447b89084a4c6ad50c8150d26e82eb76ddf7a06cb0dc
 Section: aTweaks
 Description: Ic0nic0de custom respring logo.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
@@ -20,14 +20,38 @@ Architecture: iphoneos-arm
 Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Filename: ./debs/com.ic0nic0de.icons_1.0-6_iphoneos-arm.deb
 Size: 33538
-MD5sum: cd1260ac8dbc142d2f1cf0f903bc305a
-SHA1: fb32aa4bfae5f6edd79f8e84167059593a8bf0ed
-SHA256: d927ba77ed17ee5524c879e6c029dfebd89f582e0c395c03abb517b368d4b147
+MD5sum: 559c710a012ef4fde8a870a854f1f722
+SHA1: e9fda7f22ea817e154242859f509720983e162b3
+SHA256: 65c91d1d8deb335aa2a5dd141f8132948e0e7d1b7b58e20351c26b726af9a3a1
 Section: aTweaks
 Description: Adds Sections icons for repository.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.icons/index.html
 Name: Ic0nic0de Repo Icon Pack
+
+Package: com.cokepokes.phantom
+Version: 5.3.8-6
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
+Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all, com.cokepokes.libphantom
+Replaces: com.cokepokes.phlite
+Filename: ./debs/com.cokepokes.phantom_5.3.8-6_iphoneos-arm.deb
+Size: 7977440
+MD5sum: 13c6249a34dc886531ebe91d2d8b264c
+SHA1: 02d42c39aa1f955146908d69ba34456278721325
+SHA256: 6d23b8d4739068863d3e8c00340af4cf6772553290feb6dd903c1d4b4b80af5d
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
+Description: Phantom is in the process of being fully updated to bypass Snapchat’s tweak detection. Currently this is the only Snapchat tweak that works without triggering a connection error or ban! Works only on Snapchat 10.22 & below
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Author: CokePokes <cokepokes@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
+Dev: cokepokes
+Icon: file:///Library/PreferenceBundles/phlite.bundle/phantomIcon@2x.png
+Name: Phantom (Lite) for Snapchat
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.cokepokes.tumblrinf
 Version: 0.1-1
