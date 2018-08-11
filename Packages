@@ -5,9 +5,9 @@ Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate, com.wizages.bae
 Filename: ./debs/com.ic0nic0de.ic0spring_1.0-6_iphoneos-arm.deb
 Size: 102476
-MD5sum: 91aed91d615e2d2f649dd309a0f73088
-SHA1: 92be7aff746343e6ce8929217d5470f93adb2c32
-SHA256: cfcd54adcc4c393779f89558d87cc3c0a8e223d47d5c31a5864a96b7d6c1b0f4
+MD5sum: 74dd700389a1be7be7dde7f089a27758
+SHA1: 989fab6e33d8ed00a9bfbbd80ef25bf78baecf5e
+SHA256: 50c01471a05bcca6cff54fe7f59d379cc68c466432d9452855272211f9f13e76
 Section: aTweaks
 Description: Ic0nic0de custom respring logo.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
@@ -20,12 +20,26 @@ Architecture: iphoneos-arm
 Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Filename: ./debs/com.ic0nic0de.icons_1.0-6_iphoneos-arm.deb
 Size: 33538
-MD5sum: 6d676887c50880f3ec3bf1c9aa143d78
-SHA1: c72172736f1bb170f48d5a50eac8e3d9cd0c17a3
-SHA256: 03e2d85b7ce8ba47a5069e616cfe789e02e1597cfb6d03a55fd8a39b07e005d3
+MD5sum: ab5041528acfd57c55b89623b99c7ad5
+SHA1: 2d8c7733048e121f8aa134dfe30ec27c5ad80309
+SHA256: f142e9c0a053c622c4d81947e8eb831ab6441a8d74766b99c4b2b5cf510b3c23
 Section: aTweaks
 Description: Adds Sections icons for repository.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.icons/index.html
 Name: Ic0nic0de Repo Icon Pack
+
+Package: com.cokepokes.tumblrinf
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.cokepokes.tumblrinf_0.1-1_iphoneos-arm.deb
+Size: 134144
+MD5sum: 7a40cb5fda811c6cb55b0784b177356b
+SHA1: 266d0aa6b3fbf7e8e1a7109f1877dc2a8d50c756
+SHA256: 2e380e088e94cf6b1d36a09b4c2657b95caa1d06dfc7f123248d2926d3c7e087
+Section: Tweaks
+Priority: optional
+Author: CokePokes
+Name: Tumblr ∞
 
