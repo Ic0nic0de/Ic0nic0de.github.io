@@ -1,3 +1,3 @@
 #!/bin/bash
-dpkg-scanpackages ./debs > Packages -m
+dpkg-scanpackages ./debs > Packages
 bzip2 -fks Packages
