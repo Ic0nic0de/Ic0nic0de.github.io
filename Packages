@@ -15,6 +15,21 @@ Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.Ic0Spring/index.h
 Name: Ic0Spring
 
 Package: com.Ic0nic0de.icons
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Filename: ./debs/com.ic0nic0de.icons_2.0_iphoneos-arm.deb
+Size: 66436
+MD5sum: 2f1cf476a270d5d7e828a8b891620fe0
+SHA1: f1b3fe8a7c103a0fc46aba71fd2f4fb85c7a710b
+SHA256: c988bf055120de8623d1a95db15c54a2ab13466d663f6b9f61241572c9150371
+Section: Ic0-RepoIcons
+Description: Adds Sections icons for repository.
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.icons/index.html
+Name: Ic0nic0de Repo Icon Pack
+
+Package: com.Ic0nic0de.icons
 Version: 2.1
 Architecture: iphoneos-arm
 Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
