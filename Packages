@@ -1,0 +1,31 @@
+Package: com.Ic0nic0de.Ic0Spring
+Version: 1.0-6
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, com.wizages.bae
+Filename: ./debs/com.ic0nic0de.ic0spring_1.0-6_iphoneos-arm.deb
+Size: 102402
+MD5sum: fbe05206d45934fa914233bd4a3ab447
+SHA1: 5511d20d89695e39846dc8a4c5eeb9b6e981959e
+SHA256: 7bf15727349f5bf8ce401727b2f81f5ea24805336b712306efb9c1c7618c0cae
+Section: Ic0-Tweaks
+Description: Ic0nic0de custom respring logo.
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.Ic0Spring/index.html
+Name: Ic0Spring
+
+Package: com.Ic0nic0de.icons
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Filename: ./debs/com.ic0nic0de.icons_2.2_iphoneos-arm.deb
+Size: 66830
+MD5sum: dc07b5a11a012c6ab1487f86cdd80c24
+SHA1: 74dabb30a89cb1772b20075359070daaeb8ba8da
+SHA256: 3239e4977d440cbbd001321fa7c23ffcb8c190d6c022ab9283bba20e4be1e580
+Section: Ic0-RepoIcons
+Description: Adds Sections icons for repository.
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.icons/index.html
+Name: Ic0nic0de Repo Icon Pack
+

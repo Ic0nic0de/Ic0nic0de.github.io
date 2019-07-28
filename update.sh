@@ -1,7 +1,4 @@
-rm Packages.bz2
 #!/bin/bash
-./dpkg-scanpackages -m ./debs > Packages
-bzip2 Packages
-git add --all
-git commit -m "~"
-git push -u origin master
+#./remove.sh
+./packages.sh
+./push.sh
