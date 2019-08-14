@@ -93,6 +93,23 @@ Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/index.html
 Name: Excel JB Bypass
 
+Package: com.ic0nic0de.mbhdnoads
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.ic0nic0de.mbhdnoads_1.0-1+debug_iphoneos-arm.deb
+Size: 11860
+MD5sum: 32448ff103ac06a9f4550d3e967b87f5
+SHA1: 4961c0abba4e14812d6d2ee7a81bf2ff8fc910e7
+SHA256: ee88148618dc289227dfaa64af95900559680d7ddb0f646ac3ef96e6e5de48e5
+Section: Ic0-Tweaks
+Description: Disables all Ads in MediaBox HD
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.mbhdnoads/index.html
+Name: MediaBox HD No Ads
+
 Package: com.ic0nic0de.outlookbypass
 Version: 1.0-1+debug
 Architecture: iphoneos-arm
