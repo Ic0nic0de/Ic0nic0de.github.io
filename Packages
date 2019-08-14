@@ -77,16 +77,16 @@ Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.icons/index.html
 Name: Ic0nic0de Repo Icon Pack
 
 Package: com.ic0nic0de.outlookbypass
-Version: 1.0-1-1+debug
+Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Installed-Size: 192
 Depends: mobilesubstrate,
-Filename: ./debs/com.ic0nic0de.outlookbypass_1.0-1-1+debug_iphoneos-arm.deb
-Size: 19478
-MD5sum: a5692b20ab1fb2f662e4480b2e2d7e65
-SHA1: cbe817240c992220fed3274837e54440d1c29147
-SHA256: 6a5477543d3c314d7e9ef09f12116865bd4e53059402ff46feabccaf83ca20c6
+Filename: ./debs/com.ic0nic0de.outlookbypass_1.0-1+debug_iphoneos-arm.deb
+Size: 19536
+MD5sum: f670bd75ab867a7a3306112b1fec0938
+SHA1: 152565e36ced75496a7d8abb7afef9c3b66342ca
+SHA256: 7eb336854dc43a658cd1dd1b66d5ffc18ce51558b57844029d22afb4f582bf46
 Section: Ic0-Tweaks
 Description: Microsoft Office JB Bypass.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
