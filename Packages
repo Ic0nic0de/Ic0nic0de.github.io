@@ -144,3 +144,20 @@ Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.outlookbypass/index.html
 Name: Outlook JB Bypass
 
+Package: com.ipadkid.ftt
+Version: 0.0.4-1+debug
+Architecture: iphoneos-arm
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Installed-Size: 196
+Depends: mobilesubstrate
+Filename: ./debs/com.ipadkid.ftt_0.0.4-1+debug_iphoneos-arm.deb
+Size: 30046
+MD5sum: 8f6f0fba5fb4a6af82e1653c057805ff
+SHA1: 6f07eb540f9ee56ff7968e5f188e5644948f5e86
+SHA256: 93906871f9ec3e6b507849e47fe3845e09a5c26f3ebb52e20ea7425fd7cae0bf
+Section: Utilities
+Homepage: https://github.com/ipadkid358/FlexToTheos
+Description: Turn Flex 3 patches into Theos projects
+Author: ipad_kid <ipadkid358@gmail.com>
+Name: Flex To Theos
+
