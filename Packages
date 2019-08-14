@@ -93,3 +93,20 @@ Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.outlookbypass/index.html
 Name: Outlook JB Bypass
 
+Package: com.ic0nic0de.outlookbypass
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Installed-Size: 192
+Depends: mobilesubstrate
+Filename: ./debs/com.ic0nic0de.outlookbypass_1.0-2+debug_iphoneos-arm.deb
+Size: 19528
+MD5sum: 5451eeb0a8d67eb7be400eea516ba8c1
+SHA1: 80f49e55b5b3eb4c5b5c51a45ac61cbc234e4e8e
+SHA256: 501df7a860ac6960f0be2621ca7b2dd0e9b672d68b2c4ae0b810426cfde2b110
+Section: Ic0-Tweaks
+Description: Microsoft Office JB Bypass.
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.outlookbypass/index.html
+Name: Outlook JB Bypass
+
