@@ -1,4 +1,21 @@
 Package: com.Ic0nic0de.icons
+Version: 2.4
+Architecture: iphoneos-arm
+Essential: no
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Filename: ./debs/com.Ic0nic0de.icons_2.4_iphoneos-arm.deb
+Size: 164390
+MD5sum: fb7d7b23bf6221081256e1a3eccdae67
+SHA1: afeb5a4ef2d6d48bace01a7b381be4fcbe0ba19d
+SHA256: 0fb29fca8b85d2c966e27138485d9fa442822c402d1f704b556a24fb3b504e6f
+Section: Ic0-RepoIcons
+Priority: optional
+Description: Adds Sections icons for repository.
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.icons/index.html
+Name: Ic0nic0de Repo Icon Pack
+
+Package: com.Ic0nic0de.icons
 Version: 2.3
 Architecture: iphoneos-arm
 Essential: no
