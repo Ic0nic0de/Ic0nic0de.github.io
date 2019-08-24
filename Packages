@@ -49,6 +49,23 @@ Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.outlookbypass/index.html
 Name: Outlook JB Bypass
 
+Package: com.ic0nic0de.slices12fs
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: ic0nic0de
+Installed-Size: 1824
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./debs/com.ic0nic0de.slices12fs_0.0.1-1+debug_iphoneos-arm.deb
+Size: 466
+MD5sum: 9d179c679f9a1f617d9c2094dc14cf5c
+SHA1: 3eb9286a2acb32c9c2fe73d8fd5766f2644b1dfb
+SHA256: 346856b040b1fdbde47e1cc9cead76c9d363f5d0a3d9cddbfdcb790aec717588
+Section: Addons (Flipswitch)
+Priority: optional
+Description: A simple switch for the Flipswitch API!
+Author: ic0nic0de
+Name: slices12fs
+
 Package: com.ipadkid.ftt
 Version: 0.0.4-1+debug
 Architecture: iphoneos-arm
