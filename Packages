@@ -15,6 +15,40 @@ Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.icons/index.html
 Name: Ic0nic0de Repo Icon Pack
 
+Package: com.ic0nic0de.excelbypass
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs//com.ic0nic0de.excelbypass_1.0-1+debug_iphoneos-arm.deb
+Size: 10370
+MD5sum: 8f339bb4886d15f1d0c8bb8dbefdba88
+SHA1: 919722f2de14b31f570ec03487952b31f8df3fab
+SHA256: 34c0410d8aff0fff743c9c861f26a60e1a416664979ca1adc9dfca92ccfd1cb7
+Section: Ic0-Tweaks
+Description: Microsoft Excel JB Bypass.
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/index.html
+Name: Excel JB Bypass
+
+Package: com.ic0nic0de.outlookbypass
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Installed-Size: 192
+Depends: mobilesubstrate
+Filename: ./debs//com.ic0nic0de.outlookbypass_1.0-1+debug_iphoneos-arm.deb
+Size: 21382
+MD5sum: 6979bf2688368a12f639c452e2bb2418
+SHA1: b4516e624609963d691cd68eec91dffab0962564
+SHA256: 4eb7d5896942581d9889a387f374814294da90c61a8f5b3137cf9dc59e33a432
+Section: Ic0-Tweaks
+Description: Microsoft Office JB Bypass.
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.outlookbypass/index.html
+Name: Outlook JB Bypass
+
 Package: perl
 Version: 5.28.0-1
 Architecture: iphoneos-arm
