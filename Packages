@@ -49,35 +49,3 @@ Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.outlookbypass/index.html
 Name: Outlook JB Bypass
 
-Package: perl
-Version: 5.28.0-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 107352
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/perl_5.28.0-1_iphoneos-arm.deb
-Size: 7888760
-MD5sum: a77339e29459b93f805bd4b34eb55bb3
-SHA1: c49b0fc8adda6d0a47bf1071b56c1d707e7a46cf
-SHA256: 5add5d4ce7a18047c1421026aadfa001de347f4fb106683836947b5f51bc0c3d
-Section: Scripting
-Priority: optional
-Description: awesome combination of sed and awk
-Name: Perl
-
-Package: sum
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: level3tjg
-Depends: bash
-Provides: md5sum, sha1sum, sha256sum
-Filename: ./debs/sum_1.0_iphoneos-arm.deb
-Size: 74396
-MD5sum: 8016a4669e3baecb50d0318ca2f3fa8e
-SHA1: 55d0158b5c5ff3c9faf0165a6bb58eedd67c0bca
-SHA256: 76f09d72f6c32feba3f70b86376d3289bddb30695de916a8e2bb8fb380e5284c
-Section: Utilities
-Priority: standard
-Description: md5sum, sha1sum, etc.
-Name: sum
-
