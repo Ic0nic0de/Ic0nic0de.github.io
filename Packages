@@ -30,6 +30,7 @@ Section: Ic0-Tweaks
 Description: Microsoft Excel JB Bypass.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/index.html
+SileoDepiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/SileoDepiction.json
 Name: Excel JB Bypass
 
 Package: com.ic0nic0de.outlookbypass
