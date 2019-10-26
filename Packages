@@ -80,4 +80,3 @@ Section: Utilities
 Priority: standard
 Description: md5sum, sha1sum, etc.
 Name: sum
-
