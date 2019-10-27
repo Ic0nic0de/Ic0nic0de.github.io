@@ -19,18 +19,19 @@ Package: com.ic0nic0de.excelbypass
 Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Installed-Size: 136
+Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.ic0nic0de.excelbypass_1.0-1+debug_iphoneos-arm.deb
-Size: 10370
-MD5sum: 8f339bb4886d15f1d0c8bb8dbefdba88
-SHA1: 919722f2de14b31f570ec03487952b31f8df3fab
-SHA256: 34c0410d8aff0fff743c9c861f26a60e1a416664979ca1adc9dfca92ccfd1cb7
+Size: 4618
+MD5sum: 0622555c574ea24046ee2e3a77efa59a
+SHA1: 17e9b13474302d875abceab46c83b83726788e90
+SHA256: fa1164e0e666dfe30ceb4dccc89dd85d41827ee114550ad8d34009ba2b8d60d3
 Section: Ic0-Tweaks
 Description: Microsoft Excel JB Bypass.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/index.html
 Name: Excel JB Bypass
+Sileodepiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/Sileo
 
 Package: com.ic0nic0de.outlookbypass
 Version: 1.0-1+debug
