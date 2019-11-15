@@ -1,0 +1,52 @@
+Package: com.Ic0nic0de.icons
+Version: 2.3
+Architecture: iphoneos-arm
+Essential: no
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Filename: ./debs/com.Ic0nic0de.icons_2.3_iphoneos-arm.deb
+Size: 109858
+MD5sum: 49465bee545758fde9d6548133e69496
+SHA1: 93c43ba7b7058264d9c85a4adaa97335b23e3ac3
+SHA256: 3fee6089cb520af8049514b26fb0828850624261bda4d2a9fc14ae9875e86377
+Section: Ic0-RepoIcons
+Priority: optional
+Description: Adds Sections icons for repository.
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.icons/index.html
+Name: Ic0nic0de Repo Icon Pack
+
+Package: com.ic0nic0de.excelbypass
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.ic0nic0de.excelbypass_1.0-1+debug_iphoneos-arm.deb
+Size: 4618
+MD5sum: 0622555c574ea24046ee2e3a77efa59a
+SHA1: 17e9b13474302d875abceab46c83b83726788e90
+SHA256: fa1164e0e666dfe30ceb4dccc89dd85d41827ee114550ad8d34009ba2b8d60d3
+Section: Ic0-Tweaks
+Description: Microsoft Excel JB Bypass.
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/index.html
+Name: Excel JB Bypass
+Sileodepiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/Sileo
+
+Package: com.ic0nic0de.outlookbypass
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Installed-Size: 192
+Depends: mobilesubstrate
+Filename: ./debs/com.ic0nic0de.outlookbypass_1.0-1+debug_iphoneos-arm.deb
+Size: 21382
+MD5sum: 6979bf2688368a12f639c452e2bb2418
+SHA1: b4516e624609963d691cd68eec91dffab0962564
+SHA256: 4eb7d5896942581d9889a387f374814294da90c61a8f5b3137cf9dc59e33a432
+Section: Ic0-Tweaks
+Description: Microsoft Office JB Bypass.
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.outlookbypass/index.html
+Name: Outlook JB Bypass
+
