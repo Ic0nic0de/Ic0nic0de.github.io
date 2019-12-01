@@ -16,6 +16,24 @@ Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/index
 Name: Excel JB Bypass
 Sileodepiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/Sileo
 
+Package: com.ic0nic0de.excelbypass
+Version: 1.1-2+debug
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.ic0nic0de.excelbypass_1.1-2+debug_iphoneos-arm.deb
+Size: 4610
+MD5sum: ba8c7fdf1a8f9042e3da27b07a6943b2
+SHA1: cd88dedf2db1e43495f87741a20b8e7f635aad96
+SHA256: f2b8adcce6c0bbeb1f2b5ada817907adb4be98fc9b1a72b59fa620a76b7733bf
+Section: Tweaks
+Description: Microsoft Excel JB Bypass.
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/index.html
+Name: Excel JB Bypass
+Sileodepiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/Sileo
+
 Package: com.ic0nic0de.outlookbypass
 Version: 1.0-1+debug
 Architecture: iphoneos-arm
@@ -28,6 +46,23 @@ MD5sum: 6979bf2688368a12f639c452e2bb2418
 SHA1: b4516e624609963d691cd68eec91dffab0962564
 SHA256: 4eb7d5896942581d9889a387f374814294da90c61a8f5b3137cf9dc59e33a432
 Section: Ic0-Tweaks
+Description: Microsoft Office JB Bypass.
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.outlookbypass/index.html
+Name: Outlook JB Bypass
+
+Package: com.ic0nic0de.outlookbypass
+Version: 1.1-1+debug
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Installed-Size: 228
+Depends: mobilesubstrate
+Filename: ./debs/com.ic0nic0de.outlookbypass_1.1-1+debug_iphoneos-arm.deb
+Size: 15108
+MD5sum: 65f359f6c13fff6fb91151857ed33a2c
+SHA1: 9da41709bf6281e59acce77dd3fc975ba02652c5
+SHA256: 6fa3dd53685f22e5dee9e53bff9e31098ab628247534c7ac01e3e8f8d43ba772
+Section: Tweaks
 Description: Microsoft Office JB Bypass.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.outlookbypass/index.html
