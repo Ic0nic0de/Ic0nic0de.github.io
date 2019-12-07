@@ -68,3 +68,20 @@ Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.outlookbypass/index.html
 Name: Outlook JB Bypass
 
+Package: com.lacertosusrepo.clauditis
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: LacertosusDeus <LacertosusThemes@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.lacertosusrepo.clauditis_1.0-1+debug_iphoneos-arm.deb
+Size: 4998
+MD5sum: c0b415675061e3ef1263739d1a508ef6
+SHA1: 6b6faa740d874dae71e98232ffca4539411040da
+SHA256: 4516327310e4ffdbf802e986145b19fd3c9b6d04f84f38bcde4b091ca3d3f3d2
+Section: Tweaks
+Description: Lock your device from home...
+Author: LacertosusDeus <LacertosusThemes@gmail.com>
+Depiction: http://lacertosusrepo.github.io/depictions/com.lacertosusrepo.clauditis/index.html
+Name: Clauditis
+
