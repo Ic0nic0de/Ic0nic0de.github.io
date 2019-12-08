@@ -50,3 +50,21 @@ Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.ttl/index.html
 Name: Triple Tap Lock
 
+Package: com.ic0nic0de.ttl
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./debs/com.ic0nic0de.ttl_2.4_iphoneos-arm.deb
+Size: 75214
+MD5sum: c5fbf2f434945f5a27742b76858da18e
+SHA1: 4548d8cf038f5869b96cb0600562e846f540ecae
+SHA256: bd59485851c2ae2f61a32dfd6cb0a1baf7efcb23c37cfe18434ea36ede287118
+Section: Tweaks
+Description: Lock your device by simply tapping 3 times on the homescreen
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.ttl/index.html
+Icon: //Library/PreferenceBundles/TripleTapLockPrefs.bundle/ttlicon.png
+Name: Triple Tap Lock
+
