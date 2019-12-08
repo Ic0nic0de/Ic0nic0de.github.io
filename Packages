@@ -34,118 +34,16 @@ Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.outlookbypass/ind
 Name: Outlook JB Bypass
 
 Package: com.ic0nic0de.ttl
-Version: 1.3-1
-Architecture: iphoneos-arm
-Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Installed-Size: 324
-Depends: mobilesubstrate
-Filename: ./debs/com.ic0nic0de.ttl_1.3-1_iphoneos-arm.deb
-Size: 50122
-MD5sum: 0e4a068bbb006a8cda1c408422fe12a9
-SHA1: 3bad3a101c5559ecd15cd0966bc55ee5f1ac36df
-SHA256: e1e90c54e4f66a8b61d9b710eb5d63d58a1fbfb2e30ad06b44aee540c9d6dba6
-Section: Tweaks
-Description: Lock your device by simply tapping 3 times on the homescreen
-Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.ttl/index.html
-Name: Triple Tap Lock
-
-Package: com.ic0nic0de.ttl
-Version: 1.4-1
-Architecture: iphoneos-arm
-Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Installed-Size: 336
-Depends: mobilesubstrate
-Filename: ./debs/com.ic0nic0de.ttl_1.4-1_iphoneos-arm.deb
-Size: 56160
-MD5sum: 7b60bc95c613965ec3ba7b807549c0bf
-SHA1: 70ccca55aefaca9d2da9d8df29237eb7de8a06e7
-SHA256: 6c2959632a70f8abbd5c0da72a7bf8e230d5115b007b52cf4662e5ebe0ea6b73
-Section: Tweaks
-Description: Lock your device by simply tapping 3 times on the homescreen
-Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.ttl/index.html
-Name: Triple Tap Lock
-
-Package: com.ic0nic0de.ttl
-Version: 1.5
-Architecture: iphoneos-arm
-Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Installed-Size: 336
-Depends: mobilesubstrate
-Filename: ./debs/com.ic0nic0de.ttl_1.5_iphoneos-arm.deb
-Size: 55456
-MD5sum: e911ba5771e7afbbd651cec4dcf5d919
-SHA1: 1243051ecce690a17a60c5c25fe2797567a68822
-SHA256: 273d66976410c5d39aa2383a9bcd9924e4de5a8736a3b8b90d5638239d449d4a
-Section: Tweaks
-Description: Lock your device by simply tapping 3 times on the homescreen
-Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.ttl/index.html
-Name: Triple Tap Lock
-
-Package: com.ic0nic0de.ttl
-Version: 1.6-1
+Version: 1.9
 Architecture: iphoneos-arm
 Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Installed-Size: 348
 Depends: mobilesubstrate
-Filename: ./debs/com.ic0nic0de.ttl_1.6-1_iphoneos-arm.deb
-Size: 69930
-MD5sum: e269f84c868e1e85dec72d2704a06315
-SHA1: 38d8b740b4eac05ba0c4c2826d4df9cefa253302
-SHA256: 403a704c998ba81659dfa0bb8df05212cecb89f88d564d00b5d011a8e7f18dc3
-Section: Tweaks
-Description: Lock your device by simply tapping 3 times on the homescreen
-Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.ttl/index.html
-Name: Triple Tap Lock
-
-Package: com.ic0nic0de.ttl
-Version: 1.6-1+debug
-Architecture: iphoneos-arm
-Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Installed-Size: 340
-Depends: mobilesubstrate
-Filename: ./debs/com.ic0nic0de.ttl_1.6-1+debug_iphoneos-arm.deb
-Size: 59230
-MD5sum: ea41b4b20e71d8e82d0efe4f62e8707e
-SHA1: e690b5dd74b7bbe3eb3b398a6c8bf05101dd383f
-SHA256: 251b39996de5c96fcefd01714fb3bc9e046422fb9775a95eeeb3c16209196e78
-Section: Tweaks
-Description: Lock your device by simply tapping 3 times on the homescreen
-Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.ttl/index.html
-Name: Triple Tap Lock
-
-Package: com.ic0nic0de.ttl
-Version: 1.7
-Architecture: iphoneos-arm
-Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Installed-Size: 348
-Depends: mobilesubstrate
-Filename: ./debs/com.ic0nic0de.ttl_1.7_iphoneos-arm.deb
-Size: 69226
-MD5sum: 49fd2b743139a6968d53845e62a5c7f4
-SHA1: 2d8b23a142ec4b25276bc6a638641af9680bbd26
-SHA256: 6e4e9aa3709ad2d86aef9c00dbf4aa8026e6c7c910f41726236d9d099da6d0a8
-Section: Tweaks
-Description: Lock your device by simply tapping 3 times on the homescreen
-Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.ttl/index.html
-Name: Triple Tap Lock
-
-Package: com.ic0nic0de.ttl
-Version: 1.8
-Architecture: iphoneos-arm
-Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Installed-Size: 348
-Depends: mobilesubstrate
-Filename: ./debs/com.ic0nic0de.ttl_1.8_iphoneos-arm.deb
-Size: 69204
-MD5sum: a4096ce2f4a0bd82dcf81b580e7ca36e
-SHA1: 9882dc293e130f32b2400e402eb355b8d5ffb57c
-SHA256: 401ec68eb59c9f1b3fce32e66ebcad7f7d1686040147ce4c36729abfce1428ff
+Filename: ./debs/com.ic0nic0de.ttl_1.9_iphoneos-arm.deb
+Size: 69220
+MD5sum: 37a7a277a7ac87f50f3d12d87ec1ab1b
+SHA1: a36228ff6021ca4991de73fc4b92b64665f056b0
+SHA256: 363bec9f32e85b617af213cbcbdaff9bb25ba464c062b31ad7087faea015b2cb
 Section: Tweaks
 Description: Lock your device by simply tapping 3 times on the homescreen
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
