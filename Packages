@@ -50,3 +50,20 @@ Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.outlookbypass/index.html
 Name: Outlook JB Bypass
 
+Package: com.ic0nic0de.ttl
+Version: 1.1-1+debug
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/com.ic0nic0de.ttl_1.1-1+debug_iphoneos-arm.deb
+Size: 7792
+MD5sum: 459e51711eff77683d4524a0f9761512
+SHA1: 0a028542bbc9cc2971d07505d5746a66385258bc
+SHA256: d191fcf89726e19be73f96fc11cc9903126b0e7aa7cef926a4b88919e29bf622
+Section: Tweaks
+Description: Lock your device by simply tapping 3 times on the homescreen
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.ttl/index.html
+Name: Triple Tap Lock
+
