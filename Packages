@@ -33,39 +33,3 @@ Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.outlookbypass/index.html
 Name: Outlook JB Bypass
 
-Package: com.ic0nic0de.taptaplock
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Installed-Size: 336
-Depends: mobilesubstrate, ws.hbang.common (>= 1.14)
-Filename: ./debs/com.ic0nic0de.taptaplock_1.0_iphoneos-arm.deb
-Size: 26194
-MD5sum: 96ff81adbda275e6b9122ff6633b8264
-SHA1: 0be2c18f49b981bcf68235dc29bc5fd5d5313478
-SHA256: 3ce0e1d78797f0c3a11b633de3a4f5e5e069f88e52d53466d15ca0fba13f24a0
-Section: Tweaks
-Description: Tap on the homescreen to lock your device
-Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.taptaplock/index.html
-Icon: file:///Library/PreferenceBundles/taptaplockPrefs.bundle/icons/icon@3x.png
-Name: Tap Tap Lock
-
-Package: com.ic0nic0de.taptaplock
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Installed-Size: 340
-Depends: mobilesubstrate, ws.hbang.common (>= 1.14)
-Filename: ./debs/com.ic0nic0de.taptaplock_1.1_iphoneos-arm.deb
-Size: 34566
-MD5sum: c99834267326b900e8c734f2d6432580
-SHA1: 2164ac925f4aee1f4e14af475bafd17edcdf27f5
-SHA256: 1741f45248860be7517afac2f5b347fa0e4fe3477eb643e6f5aaf2f98271149f
-Section: Tweaks
-Description: Tap on the homescreen to lock your device
-Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.taptaplock/index.html
-Icon: file:///Library/PreferenceBundles/taptaplockPrefs.bundle/icons/icon@3x.png
-Name: Tap Tap Lock
-
