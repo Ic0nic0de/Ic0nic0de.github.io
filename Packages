@@ -16,6 +16,24 @@ Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/index
 Name: Excel JB Bypass
 Sileodepiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/Sileo
 
+Package: com.ic0nic0de.excelbypass
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.ic0nic0de.excelbypass_1.2_iphoneos-arm.deb
+Size: 3904
+MD5sum: c5cd0d92ec535d4b54b9a53fd6222f14
+SHA1: b618ec546d633666d6d82ff684ae557aa8df48ba
+SHA256: 468ffda39e74327a9f23b4c1f5423bbeeab924cd5947cdaa4bd39c6d601420d6
+Section: Tweaks
+Description: Microsoft Excel JB Bypass.
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/index.html
+Name: Excel JB Bypass
+Sileodepiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/Sileo
+
 Package: com.ic0nic0de.outlookbypass
 Version: 1.1-1+debug
 Architecture: iphoneos-arm
@@ -27,6 +45,23 @@ Size: 15108
 MD5sum: 65f359f6c13fff6fb91151857ed33a2c
 SHA1: 9da41709bf6281e59acce77dd3fc975ba02652c5
 SHA256: 6fa3dd53685f22e5dee9e53bff9e31098ab628247534c7ac01e3e8f8d43ba772
+Section: Tweaks
+Description: Microsoft Office JB Bypass.
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.outlookbypass/index.html
+Name: Outlook JB Bypass
+
+Package: com.ic0nic0de.outlookbypass
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.ic0nic0de.outlookbypass_1.2_iphoneos-arm.deb
+Size: 6686
+MD5sum: 35dc33615030e7c7ce9585692fa28afe
+SHA1: 9cbdd26ff3bdb896de92f9e138fdf5ba54b0fff3
+SHA256: dbd7c5cba60a877fc30798d604d651c6b172ec5df8dc20a1e47d327236f06763
 Section: Tweaks
 Description: Microsoft Office JB Bypass.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
