@@ -1,9 +1,8 @@
-Origin:  Ic0nic0de Public Repo 
+Origin:  Ic0nic0de's Public Repo 
 Label:  Ic0nic0de 
 Suite: stable
 Version: 1.0
 Codename: com.Ic0nic0de.PublicRepo
-Architectures: iphoneos-arm 
+Architectures: iphoneos-arm
 Components: main
-Description: Ic0nic0de Public Repo
- 
+Description: Ic0nic0de's Public Repo
