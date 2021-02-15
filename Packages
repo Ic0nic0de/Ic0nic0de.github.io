@@ -14,6 +14,7 @@ Description: Microsoft Excel JB Bypass.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/index.html
 Name: Excel JB Bypass
+Sileodepiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/Sileo
 
 Package: com.ic0nic0de.excelbypass
 Version: 1.2
@@ -22,14 +23,14 @@ Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Installed-Size: 216
 Depends: mobilesubstrate
 Filename: ./debs/com.ic0nic0de.excelbypass_1.2_iphoneos-arm.deb
-Size: 3900
-MD5sum: a954c465afd6b2b8f5308ac316815866
-SHA1: d4a833b08a7b51b3ff51cb22cac006313dabf455
-SHA256: 6904298a32cd13a0251a017279d7e9aed8622d3a01769c35f4b22dd343fd489c
+Size: 3896
+MD5sum: 7a7adc7391139efc301c3a092f3b594c
+SHA1: ca6a66510f562cb60809eea54a15fe04ad812899
+SHA256: 3d3d4940828766acb15948bfc6aa81ab69256ebedacb51959da33e461342c050
 Section: Tweaks
 Description: Microsoft Excel JB Bypass.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depiction: https://ic0nic0de.github.io/Main/depictions/com.Ic0nic0de.excelbypass/index.html
+Depiction: http://ic0nic0de.github.io/Main/depictions/com.Ic0nic0de.excelbypass/index.html
 Name: Excel JB Bypass
 
 Package: com.ic0nic0de.outlookbypass
@@ -56,14 +57,14 @@ Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Installed-Size: 216
 Depends: mobilesubstrate
 Filename: ./debs/com.ic0nic0de.outlookbypass_1.2_iphoneos-arm.deb
-Size: 6692
-MD5sum: 621c4ddba0c56ef9ed697e7d0a94b6a2
-SHA1: c48f2309cd6f223d13227f79e319c9fb9ddc4306
-SHA256: 0c100990f97b22d004390e746184355b76b8464d775fc043065ac352c7915bd1
+Size: 6684
+MD5sum: 03652e1aac7c1d7b5708e75a835c5519
+SHA1: eb58d2e1cddab15f426fcf706a9cee78d479af70
+SHA256: 528bb60b9dae51cb66bb9f6947fe904e67ed470e0627a1d164ddafb7f5c5c5b7
 Section: Tweaks
 Description: Microsoft Office JB Bypass.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depiction: https://ic0nic0de.github.io/depictions/Main/com.Ic0nic0de.outlookbypass/index.html
+Depiction: http://ic0nic0de.github.io/Main/depictions/com.Ic0nic0de.outlookbypass/index.html
 Name: Outlook JB Bypass
 
 Package: com.ic0nic0de.taptaplock
@@ -109,13 +110,14 @@ Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Installed-Size: 472
 Depends: mobilesubstrate, ws.hbang.common (>= 1.16)
 Filename: ./debs/com.ic0nic0de.taptaplock_1.5.3_iphoneos-arm.deb
-Size: 34812
-MD5sum: 01c958740834857bb248181169da98c5
-SHA1: 86627c1e462964d5725d27610ef6d7f9bca2d06d
-SHA256: 9e27d1c08ddd70cbc2b2602a302b40eb5ac146f85b3915de142a64ee43678b2e
+Size: 34830
+MD5sum: 227b978600fdc1176d8ef57337af2730
+SHA1: 61b0f9f43bff4533884ac32fe9039b7f89199301
+SHA256: 1c140d2607c012f7d1cfc9cd772f8397f4fef2cc0d9208fefd8ac7cb0591adad
 Section: Tweaks
 Description: Tap on the homescreen to lock your device
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depiction: https://ic0nic0de.github.io/Main/depictions/com.Ic0nic0de.taptaplock/index.html
+Depiction: http://ic0nic0de.github.io/Main/depictions/com.Ic0nic0de.taptaplock/index.html
 Icon: file:///Library/PreferenceBundles/taptaplockPrefs.bundle/icons/icon@3x.png
 Name: Tap Tap Lock
+
