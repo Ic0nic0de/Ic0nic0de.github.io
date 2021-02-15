@@ -23,16 +23,15 @@ Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Installed-Size: 216
 Depends: mobilesubstrate
 Filename: ./debs/com.ic0nic0de.excelbypass_1.2_iphoneos-arm.deb
-Size: 3904
-MD5sum: c5cd0d92ec535d4b54b9a53fd6222f14
-SHA1: b618ec546d633666d6d82ff684ae557aa8df48ba
-SHA256: 468ffda39e74327a9f23b4c1f5423bbeeab924cd5947cdaa4bd39c6d601420d6
+Size: 3900
+MD5sum: a954c465afd6b2b8f5308ac316815866
+SHA1: d4a833b08a7b51b3ff51cb22cac006313dabf455
+SHA256: 6904298a32cd13a0251a017279d7e9aed8622d3a01769c35f4b22dd343fd489c
 Section: Tweaks
 Description: Microsoft Excel JB Bypass.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/index.html
+Depiction: https://ic0nic0de.github.io/depictions/Main/com.Ic0nic0de.excelbypass/index.html
 Name: Excel JB Bypass
-Sileodepiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/Sileo
 
 Package: com.ic0nic0de.outlookbypass
 Version: 1.1-1+debug
@@ -58,14 +57,14 @@ Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Installed-Size: 216
 Depends: mobilesubstrate
 Filename: ./debs/com.ic0nic0de.outlookbypass_1.2_iphoneos-arm.deb
-Size: 6686
-MD5sum: 35dc33615030e7c7ce9585692fa28afe
-SHA1: 9cbdd26ff3bdb896de92f9e138fdf5ba54b0fff3
-SHA256: dbd7c5cba60a877fc30798d604d651c6b172ec5df8dc20a1e47d327236f06763
+Size: 6692
+MD5sum: 621c4ddba0c56ef9ed697e7d0a94b6a2
+SHA1: c48f2309cd6f223d13227f79e319c9fb9ddc4306
+SHA256: 0c100990f97b22d004390e746184355b76b8464d775fc043065ac352c7915bd1
 Section: Tweaks
 Description: Microsoft Office JB Bypass.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.outlookbypass/index.html
+Depiction: https://ic0nic0de.github.io/depictions/Main/com.Ic0nic0de.outlookbypass/index.html
 Name: Outlook JB Bypass
 
 Package: com.ic0nic0de.taptaplock
@@ -111,14 +110,14 @@ Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Installed-Size: 472
 Depends: mobilesubstrate, ws.hbang.common (>= 1.16)
 Filename: ./debs/com.ic0nic0de.taptaplock_1.5.3_iphoneos-arm.deb
-Size: 34824
-MD5sum: 7b507b3dceb5d02c2f6006d9f50e9070
-SHA1: feb3ac2504145a9e21361f15860152320966c357
-SHA256: 20cc96f316a193d8b7a69a74e507e0ac8dfb87195a9a1225e4a9fff56f98ae06
+Size: 34812
+MD5sum: 01c958740834857bb248181169da98c5
+SHA1: 86627c1e462964d5725d27610ef6d7f9bca2d06d
+SHA256: 9e27d1c08ddd70cbc2b2602a302b40eb5ac146f85b3915de142a64ee43678b2e
 Section: Tweaks
 Description: Tap on the homescreen to lock your device
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.taptaplock/index.html
+Depiction: https://ic0nic0de.github.io/depictions/Main/com.Ic0nic0de.taptaplock/index.html
 Icon: file:///Library/PreferenceBundles/taptaplockPrefs.bundle/icons/icon@3x.png
 Name: Tap Tap Lock
 
