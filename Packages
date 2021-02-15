@@ -14,7 +14,6 @@ Description: Microsoft Excel JB Bypass.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
 Depiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/index.html
 Name: Excel JB Bypass
-Sileodepiction: http://Ic0nic0de.github.io/depictions/com.Ic0nic0de.excelbypass/Sileo
 
 Package: com.ic0nic0de.excelbypass
 Version: 1.2
@@ -30,7 +29,7 @@ SHA256: 6904298a32cd13a0251a017279d7e9aed8622d3a01769c35f4b22dd343fd489c
 Section: Tweaks
 Description: Microsoft Excel JB Bypass.
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depiction: https://ic0nic0de.github.io/depictions/Main/com.Ic0nic0de.excelbypass/index.html
+Depiction: https://ic0nic0de.github.io/Main/depictions/com.Ic0nic0de.excelbypass/index.html
 Name: Excel JB Bypass
 
 Package: com.ic0nic0de.outlookbypass
@@ -117,7 +116,6 @@ SHA256: 9e27d1c08ddd70cbc2b2602a302b40eb5ac146f85b3915de142a64ee43678b2e
 Section: Tweaks
 Description: Tap on the homescreen to lock your device
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Depiction: https://ic0nic0de.github.io/depictions/Main/com.Ic0nic0de.taptaplock/index.html
+Depiction: https://ic0nic0de.github.io/Main/depictions/com.Ic0nic0de.taptaplock/index.html
 Icon: file:///Library/PreferenceBundles/taptaplockPrefs.bundle/icons/icon@3x.png
 Name: Tap Tap Lock
-
